@@ -32,7 +32,7 @@ Tired of staring at confusing spreadsheets or juggling a million tabs just to se
 ---
 
 ## Preview
-#Viewing Portfolio:
+##Viewing Portfolio:
 ![Viewing Portfolio](https://github.com/user-attachments/assets/fac04ca3-6117-45b1-8ef3-1ba76ee2d3ee)
 
 
