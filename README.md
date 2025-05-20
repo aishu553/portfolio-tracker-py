@@ -1,4 +1,4 @@
-# Portfolio Tracker
+# Stock Portfolio Tracker
 
 Welcome to **Portfolio Tracker** — your money’s personal hype squad! 💸
 
@@ -8,7 +8,7 @@ Tired of staring at confusing spreadsheets or juggling a million tabs just to se
 
 ## What can it do?
 
-- Keep tabs on all your investments (stocks, crypto, and more)  
+- Keep tabs on all your investments (stocks)  
 - Show you real-time updates because your money deserves the spotlight  
 - Break down your portfolio’s performance without the boring jargon  
 - Help you make smarter moves with clear, simple insights  
@@ -31,9 +31,11 @@ Tired of staring at confusing spreadsheets or juggling a million tabs just to se
 
 ---
 
-## Screenshot
-
-![See your portfolio glow!](images/portfolio-screenshot.png)
+## Preview
+![Viewing Portfolio](https://github.com/user-attachments/assets/fac04ca3-6117-45b1-8ef3-1ba76ee2d3ee)
+![Adding Stock](https://github.com/user-attachments/assets/f171cd58-b6dd-4e4d-b7c5-4cbeb7dcd494)
+![Removing stock](https://github.com/user-attachments/assets/06018d64-0eeb-44ca-b7ce-0bb16ba2e1e7)
+![Exit](https://github.com/user-attachments/assets/454edc61-be74-4c89-995c-e0c52910fa9c)
 
 ---
 
